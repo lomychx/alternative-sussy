@@ -1,1 +1,2 @@
-# alternative-sussy
+# Sussy.lua
+Script for alternative BPM
