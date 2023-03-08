@@ -1,4 +1,4 @@
-os:toast("Добро поэаловать!")
+os:toast("Добро пожаловать!\nSussy.Lua")
 
 function main()
     menu:addtext("Sussy.lua\nby @ychlom")
